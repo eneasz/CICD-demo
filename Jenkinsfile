@@ -1,0 +1,4 @@
+node("demo") {
+	stage("Initialize"){
+		}
+}
