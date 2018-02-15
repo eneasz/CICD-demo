@@ -10,6 +10,7 @@ node("") {
 			}
 
 		stage("Analyze Code"){
+			sh "sleep 3"
 			}
 
 		stage("Generating YAML"){
